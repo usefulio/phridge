@@ -20,7 +20,6 @@
   "dependencies": {
     "fork-stream": "^0.0.4",
     "linerstream": "^0.1.4",
-    "phantomjs-sun": "https://registry.npmjs.org/phantomjs-sun/-/phantomjs-sun-1.9.1-1.tgz",
     "temp": "^0.8.0",
     "when": "^3.4.2"
   },
